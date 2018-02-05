@@ -14,6 +14,11 @@ Current Schedule: Every other Wednesday at 6:30PM (CET) / 9:30AM (PST). See [Iss
 
 Meetings happen over IRC in #datprotocol on Freenode. Notes will be published here after meetings are over. 
 
+### Meeting Process Links
+
+* Before meeting: [New Meeting Agenda Issue](https://github.com/datprotocol/working-group/issues/new?template=meeting_agenda.md)
+* After meeting: [Meeting Action Items Issue](https://github.com/datprotocol/working-group/issues/new?template=meeting_actions.md)
+
 ## Active Working Group Members
 
 * [Mathias Buus](https://github.com/mafintosh/)
