@@ -1,27 +1,34 @@
 # Dat Protocol Working Group
 
-Process Information for the Dat Protocol Working Group (Notes, Agenda, Members)
+Process Information for the [Dat Protocol](https://www.datprotocol.com) Working Group (Notes, Agenda, Members)
 
 ### More Information:
 
 * [Dat Enchancement Proposals](https://github.com/datprotocol/DEPs) Repository
+* [Dat Integration Tests](https://github.com/datprotocol/integration-tests)
 * [Meeting Notes](/meeting-notes)
 
 ## Meetings
 
-Current Schedule: Every other Wednesday at 6:30PM (CET) / 9:30AM (PST)
+Current Schedule: Every other Wednesday at 6:30PM (CET) / 9:30AM (PST). See [Issues](https://github.com/datprotocol/working-group/issues) for next meeting agenda.
 
-We will aim to stream meetings live, if possible. Notes will be published here after meetings are over. 
+Meetings happen over IRC in #datprotocol on Freenode. Notes will be published here after meetings are over. 
 
-## Members
-
-*(Protocol working group members can be fluid - we will aim to have a consistent core)*
-
-Initial Members:
+## Active Working Group Members
 
 * [Mathias Buus](https://github.com/mafintosh/)
 * [Karissa McKelvey](https://github.com/karissa/)
 * [Paul Frazee](https://github.com/pfrazee/)
 * [Tara Vancil](https://github.com/taravancil)
 * [Joe Hand](http://github.com/joehand/)
+* [Danielle Robinson](https://github.com/daniellecrobinson)
 * [Bryan Newbold](https://github.com/bnewbold)
+
+### WG Membership Process
+
+* Members are added/removed via Voting Consensus
+  * Voting Consensus is all current WG members minus 1
+  * Several members belong to the same organization. Unless/until we have a voting process that’s more complex than unanimous minus one, we use member voting and not organization voting.
+* Active members are recorded on datprotocol/working-group (this document)
+* Membership process is recorded on datprotocol/working-group (this document)
+
