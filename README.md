@@ -36,4 +36,5 @@ Meetings happen over IRC in #datprotocol on Freenode. Notes will be published he
   * Several members belong to the same organization. Unless/until we have a voting process that’s more complex than unanimous minus one, we use member voting and not organization voting.
 * Active members are recorded on datprotocol/working-group (this document)
 * Membership process is recorded on datprotocol/working-group (this document)
+* Use [this issue](https://github.com/datprotocol/working-group/issues/new?template=new_wg_member.md) to propose a new member
 
