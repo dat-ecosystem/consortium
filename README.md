@@ -12,7 +12,7 @@ Process Information for the [Dat Protocol](https://www.datprotocol.com) Working 
 
 Current Schedule: Every other Wednesday at 6:30PM (CET) / 9:30AM (PST). See [Issues](https://github.com/datprotocol/working-group/issues) for next meeting agenda.
 
-Meetings happen over IRC in #datprotocol on Freenode. Notes will be published here after meetings are over. 
+Meetings happen over IRC in #datprotocol on Freenode. Meetings are open for anyone, join the IRC channel! Notes will be published here after meetings are over. 
 
 ### Meeting Process Links
 
