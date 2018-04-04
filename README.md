@@ -31,6 +31,7 @@ Meetings happen over IRC in #datprotocol on Freenode. Meetings are open for anyo
 
 ### WG Membership Process
 
+* New members are nominated by existing WG members
 * Members are added/removed via Voting Consensus
   * Voting Consensus is all current WG members minus 1
   * Several members belong to the same organization. Unless/until we have a voting process that’s more complex than unanimous minus one, we use member voting and not organization voting.
