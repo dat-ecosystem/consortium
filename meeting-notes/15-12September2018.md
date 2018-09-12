@@ -1,4 +1,4 @@
-# dat protocol WG (#NUMBER)
+# dat protocol WG (#15)
 
 *12 September 2018 via IRC (#datprotocol)*
 
