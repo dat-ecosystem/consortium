@@ -10,8 +10,11 @@
 
 ## Agenda
 
+* Catch up with what everyone has been doing
 * Review last meeting/action items
 - AGENDA ITEM: ...
+
+## Catch up
 
 ## Summary/Review of Previous Meeting
 
@@ -20,7 +23,7 @@
 
 #### Action Item Review:
 
-* 
+*
 
 ## Meeting Notes
 
