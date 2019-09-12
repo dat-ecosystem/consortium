@@ -159,3 +159,4 @@
 
 * rangermauve will get started on CLI
 * everyone will think about funding and talk about it first next time
+* review action items from previous meeting https://github.com/datprotocol/working-group/issues/66
