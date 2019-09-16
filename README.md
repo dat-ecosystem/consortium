@@ -12,7 +12,7 @@ Process Information for the [Dat Protocol](https://www.datprotocol.com) Working 
 
 Current Schedule: Every other Wednesday at 7:00PM (CET) / 10:00AM (PST). See [Issues](https://github.com/datprotocol/working-group/issues) for next meeting agenda.
 
-Meetings happen over IRC in #datprotocol on Freenode. Meetings are open for anyone, join the IRC channel! Notes will be published here after meetings are over. 
+Meetings happen over IRC in #datprotocol on Freenode. Meetings are open for anyone, join the IRC channel! Notes will be published here after meetings are over.
 
 ### Meeting Process Links
 
@@ -22,7 +22,7 @@ Meetings happen over IRC in #datprotocol on Freenode. Meetings are open for anyo
 ## Active Working Group Members
 
 * [Mathias Buus](https://github.com/mafintosh/)
-* [Karissa McKelvey](https://github.com/karissa/)
+* [Karissa McKelvey](https://github.com/okdistribute/)
 * [Paul Frazee](https://github.com/pfrazee/)
 * [Tara Vancil](https://github.com/taravancil)
 * [Joe Hand](http://github.com/joehand/)
