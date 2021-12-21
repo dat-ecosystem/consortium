@@ -1,4 +1,6 @@
-# Dat Protocol Working Group
+# Dat Consortium
+
+Last Version of [Dat Protocol Working Group](https://github.com/dat-ecosystem/consortium/tree/7b1b21a51b1369266116cec52c7b163dfe1959cd)
 
 Process Information for the [Dat Protocol](https://www.datprotocol.com) Working Group (Notes, Agenda, Members)
 
